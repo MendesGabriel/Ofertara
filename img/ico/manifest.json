@@ -1,5 +1,6 @@
 {
- "name": "Ofertara",
+"short_name": "Ofertara",
+ "name": "Ofertara Ofertas todos os dias",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
