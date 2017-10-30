@@ -1,3 +1,3 @@
 # Ofertara
 
-## ofertara.com.br
+ ofertara.com.br
