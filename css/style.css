@@ -1,5 +1,12 @@
-span {
-  display: block;
-  color: rgb(211, 202, 202);
+.versao {
+  text-align: right;
+}
 
+.whatsapp {
+  text-align: left;
+  margin: 10px 0px 10px 3%;
+}
+
+.footer {
+ text-align: center; 
 }
